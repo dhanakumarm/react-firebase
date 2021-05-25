@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Dogs Test</h1>
+        <h1>Dogs Test test</h1>
         <div className="search">
           <input type="text" id="search" name="search" placeholder="Search" />
         </div>
